@@ -1,0 +1,127 @@
+{
+  "main": {
+    "id": "8da945bb6ffbe22f",
+    "type": "split",
+    "children": [
+      {
+        "id": "033b992785ac4e24",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "BIOL227/Bacteria.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c95767efd9cf721",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdd5c57a8afe0304",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "492a3d62eda37cf4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "74abb5c7c8a479a6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d5b22498f487e82c",
+    "type": "split",
+    "children": [
+      {
+        "id": "433937b8d5d34599",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "927a97f695ae2f93",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BIOL227/Bacteria.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a9c65ad51baf332a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "BIOL227/Bacteria.md"
+              }
+            }
+          },
+          {
+            "id": "896b6cbc985d8645",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4ba1cb7fbd8b2ade",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "033b992785ac4e24",
+  "lastOpenFiles": [
+    "BIOL227/Bacteria.md",
+    "BIOL227/Archea.md",
+    "BIOL227/Biodiversity.md",
+    "BIOL227/Prokaryotes.md",
+    "BIOL227/Definitions.md",
+    "BIOL227/Protists.md",
+    "BIOL227/Eukaryotes.md",
+    "Test.md",
+    "BIOL227.md"
+  ]
+}
