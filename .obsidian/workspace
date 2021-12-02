@@ -7,9 +7,10 @@
         "id": "033b992785ac4e24",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Media/Diatom1.png"
+            "file": "CHEM221/Final Exam Review Checklist.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Media/Diatom1.png",
+                "file": "CHEM221/Final Exam Review Checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Media/Diatom1.png"
+                "file": "CHEM221/Final Exam Review Checklist.md"
               }
             }
           },
@@ -109,19 +110,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 384
   },
   "active": "033b992785ac4e24",
   "lastOpenFiles": [
-    "Media/Diatom1.png",
-    "BIOL227/Bacteria.md",
-    "BIOL227/Archea.md",
-    "BIOL227/Biodiversity.md",
-    "BIOL227/Prokaryotes.md",
-    "BIOL227/Definitions.md",
+    "CHEM221/Final Exam Review Checklist.md",
+    "CHEM271/Final Exam Review Checklist.md",
     "BIOL227/Protists.md",
     "BIOL227/Eukaryotes.md",
-    "Test.md",
-    "BIOL227.md"
+    "BIOL227/Definitions.md",
+    "BIOL227/Biodiversity.md",
+    "BIOL227/Bacteria.md",
+    "BIOL227/Archea.md",
+    "BIOL227/Prokaryotes.md",
+    "Untitled.md"
   ]
 }
